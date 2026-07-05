@@ -23,6 +23,7 @@ This lab builds a fully functional Splunk SIEM environment across two Azure VMs 
 ## Architecture
 
 ```
+![Architecture Diagram](architecture-diagram.png)
 
 
 ┌─────────────────────────────────────────────────────────────────┐
